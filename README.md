@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 What is this?
+## 🎯 What is UnderTheWire?
 
 [UnderTheWire](https://underthewire.tech/) is a set of PowerShell wargames — think capture-the-flag, but every weapon in your hand is a cmdlet. Each level throws a scenario at you (broken scripts, hidden data, misconfigured systems) and the only way through is PowerShell.
 
@@ -20,24 +20,15 @@ This repo is my personal log of solving them: the commands I ran, the dead ends,
 
 ## 📂 Series Progress
 
-| Series      | Status         | Notes                        |
-|-------------|----------------|-------------------------------|
-| **Century** | 🟡 In Progress | Beginner-friendly intro series |
+| Series      | Status      | Notes                        |
+|-------------|-------------|-------------------------------|
+| **Century** | 🟢 Complete | Beginner-friendly intro series |
+| **Cyborg**  | 🟢 Complete | |
+| **Groot**   | 🟢 Complete | |
 | Metagoofil  | ⚪ Not started | |
 | Bishop Fox  | ⚪ Not started | |
 
 > Legend: 🟢 Complete · 🟡 In Progress · ⚪ Not Started
-
-## 🗂️ Structure
-
-```
-underthewire-writeup/
-├── Century/
-│   ├── century1.md
-│   ├── century2.md
-│   └── ...
-└── README.md
-```
 
 Each `.md` file documents the level walkthrough, the commands used to solve it, and any screenshots taken along the way (exported directly from Notion).
 
